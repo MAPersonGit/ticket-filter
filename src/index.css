@@ -1,0 +1,8 @@
+body {
+  background: #F3F7FA;
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  /* because when all items are rendered appear scroll bar */
+  height: 1700px;
+}
